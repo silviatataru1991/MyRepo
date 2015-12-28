@@ -1,5 +1,8 @@
-
-
- int a=20;
+//a de tip int
+// b de tip float
+// c reprezinta catul a/b
+ //comentariu
+ int a=100;
  float b=4,5;
-float c;
+ float c;
+c=a/b;
