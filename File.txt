@@ -2,3 +2,11 @@ alfabet
 balcon
 colet
 dadaca
+A
+B
+C
+D
+E
+F
+G
+H
