@@ -2,8 +2,7 @@
 //a de tip int
 // b de tip float 
 // c reprezinta catul a/b
-// comentariu
+
  int a=20;
  float b=4,5;
 float c;
- c=a/b;
