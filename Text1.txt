@@ -1,5 +1,9 @@
 
-int a=10;
-long int b=2300;
-char ='cd';
+//a de tip int
+// b de tip float 
+// c reprezinta catul a/b
 // comentariu
+ int a=100;
+ float b=4,5;
+ float c; 
+c=a/b;
