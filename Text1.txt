@@ -5,4 +5,5 @@
 // comentariu
  int a=20;
  float b=4,5;
+float c;
  c=a/b;
